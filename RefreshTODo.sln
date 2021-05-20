@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefreshTODo", "RefreshTODo.csproj", "{89669185-568E-42CB-8766-23DF74E6B6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89669185-568E-42CB-8766-23DF74E6B6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89669185-568E-42CB-8766-23DF74E6B6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89669185-568E-42CB-8766-23DF74E6B6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89669185-568E-42CB-8766-23DF74E6B6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644F10B2-19CA-4C04-A71A-BE9A92FC3031}
+	EndGlobalSection
+EndGlobal
